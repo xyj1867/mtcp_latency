@@ -1,4 +1,4 @@
-# mtcp_throughput
+# mtcp_latency
 
 Some change from eunyoung14 mtcp example.
 
@@ -19,4 +19,4 @@ In epserver.c:
 + Line 537
 And change the buffer size in conf file to make the buffer large enough for long message.
 
-# mtcp_latency
+
